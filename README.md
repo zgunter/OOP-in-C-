@@ -1,7 +1,7 @@
 # OOP_using_CPP
 Weekly assignments using OOP principles in C++
 
-7 assignments in the OOP C++ course taught at UoM Physics School. Collectively, the assignments shows how coding can be used to the solve physics problems. 
+7 assignments in the OOP C++ course taught at UoM Physics School. The assignments are all physics related in various ways, and together demonstrates how programming can be used to aid a physicist in complicated tasks.
 
 C++ features demonstrated :arrays, vecotrs, loops, iterations, I/O stream, pointers 
 
