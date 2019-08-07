@@ -2,7 +2,8 @@
 Weekly assignments using OOP principles in C++
 
 7 assignments in the OOP C++ course taught at UoM Physics School. Collectively, the assignments shows how coding can be used to the solve physics problems. 
-C++ features demonstrated :arrays, vecotrs, loops, iterations, I/O stream, pointers, classes: virtual, base, derived, constructors, destructors, inheritance, polymorphism. 
+C++ features demonstrated :arrays, vecotrs, loops, iterations, I/O stream, pointers 
+OOP features: classes, virtual and dervived bases, constructors, destructors, inheritance, polymorphism. 
 Advanced features: templates, headers and source file, namespaces, lambda functions, exception handling and smart pointers.
 
 Assingments includes:
